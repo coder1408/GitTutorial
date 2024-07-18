@@ -1,0 +1,3 @@
+git commit -a
+i (go into insert mode)
+:wq (exit)
